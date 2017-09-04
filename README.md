@@ -1,2 +1,5 @@
 # hello-world
-My first git
+My first GIT
+
+Notes:
+After you did work, please commit.
